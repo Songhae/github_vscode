@@ -11,7 +11,7 @@ Git, GitHub, VSCode 활용방법
    - extension
    - GitHub 연동
    - Jupyter
-
+-----------------------
 ## 전체적인 순서
 
 1. git 설치 후 기본 설정
