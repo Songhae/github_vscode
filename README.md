@@ -40,3 +40,7 @@ Git, GitHub, VSCode 활용방법
    - "+" 버튼 (git add)
    - 메세지 넣고 commit (git commit)
    - Sync (git push)
+4. 주피터 노트북 사용
+   - Jupyter extension 설치
+   - xxx.ipynb 파일 생성
+   - Language / Kernel 확인
