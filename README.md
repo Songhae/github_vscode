@@ -48,6 +48,6 @@ Git, GitHub, VSCode 활용방법
 5. ipykernal 설치 오류 시 조치 방안
    터미널에서 
    conda activate real_yolov7 --> 가상환경을 사용하는 경우에만 기동
-   [ 아래 command 실행 ]
-   pip install jupyter
-   pip install ipykernel
+   - [ 아래 command 실행 ]
+   - pip install jupyter
+   - pip install ipykernel
